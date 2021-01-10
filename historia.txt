@@ -1,7 +1,5 @@
-Esta es mi historia
+Esta es mi historia 
 
-Me llamo Jhon Eduard Bocanegra Ortiz
-y nací en el Guamo, Tolima, Colombia
-Tengo 21 años.
-
-Me encanta la ingenieria de software y la programación.z
+Me llamo Jhon Bocanegra
+y mañana aprendere mas sobre git
+Tengo 21 años
